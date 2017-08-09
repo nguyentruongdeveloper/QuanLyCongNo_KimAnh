@@ -1,0 +1,11 @@
+Controller/bin/
+Controller/obj/
+DTO/bin/
+DTO/obj/
+Utility/bin/
+Utility/obj/
+DataPlayer/bin/
+DataPlayer/obj/
+QuanLyCongNoobj
+QuanLyCongNo/bin
+.vs/
